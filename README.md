@@ -9,13 +9,11 @@
 - [ ] rssfeed page の作成
 - [ ] mp3 埋め込めるようにする
 
-## memo
 
-``` typescript
-(/ º﹃º)/ < deno --version
-deno 1.24.2 (release, x86_64-apple-darwin)
-v8 10.4.132.20
-typescript 4.7.4
+## develop
+``` shell
+(/ º﹃º)/ < deno task serve
 ```
-
+## memo
+```
 https://lume.land/plugins/jsx/
